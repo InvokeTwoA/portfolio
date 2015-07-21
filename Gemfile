@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.0.2'
 
+gem 'rake', '10.4.2'
+
 #gem 'mysql2'
 #gem 'sqlite3'
 
@@ -109,5 +111,4 @@ end
 # seibun/  graph
 gem 'lazy_high_charts'
 
-gem 'meta-tags'
 
