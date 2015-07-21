@@ -112,3 +112,4 @@ end
 gem 'lazy_high_charts'
 
 
+gem 'meta-tags', :require => 'meta_tags'
